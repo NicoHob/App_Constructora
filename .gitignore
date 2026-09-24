@@ -1,0 +1,11 @@
+# Build output
+build/
+dist/
+
+# IDE settings
+.idea/
+nbproject/private/
+
+# Runtime-generated files
+sistema.ser
+Personas.txt
